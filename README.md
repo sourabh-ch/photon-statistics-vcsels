@@ -8,5 +8,6 @@ Using anaconda enviroment is reccomended to ensure all required libraries are av
 To read the data from the Rhode and Shwarz Oscillscope you will need to download and install the RTxReadBin package available at the following link :
 https://www.rohde-schwarz.com/ch-en/applications/working-with-acquired-waveform-data-in-python-application-card_56279-1165008.html?change_c=true
 
-To clone this repository you can use github desktop or run the following command : 
+To clone this repository you can use github desktop or run the following command in git-bash : 
 
+$ git clone https://github.com/sourabh-ch/photon-statistics-vcsels.git
